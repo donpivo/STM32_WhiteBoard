@@ -1303,7 +1303,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 1e2507b5-7fba-452d-96d3-d7a84714e1b3)
     )
-    (fp_text value "560Ω" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "1kΩ" (at 0 1.43) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 719acbcb-232c-4f53-84de-329c33e4e440)
     )
