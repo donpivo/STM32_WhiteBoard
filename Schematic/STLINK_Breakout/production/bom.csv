@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,100nF,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
+J1,PinSocket_1x02_P2.54mm_Vertical,1,CN11,
+J2,PinSocket_1x02_P2.54mm_Vertical,1,CN3,
+J3,PinSocket_1x02_P2.54mm_Vertical,1,CN12,
+J4,PinSocket_1x06_P2.54mm_Vertical,1,To Nucleo STLINK Adapter,
+J5,IDC-Header_2x04_P2.54mm_Vertical,1,IDC8,
+J6,0527450897,1,FFC8,
+R1,0603,1,4.7kΩ,
