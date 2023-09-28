@@ -1221,7 +1221,7 @@
     (property "Reference" "R1" (at 78.74 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "3kΩ" (at 79.375 52.705 90)
+    (property "Value" "4.7kΩ" (at 79.375 52.705 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 77.47 55.245 0)
@@ -1230,8 +1230,8 @@
     (property "Datasheet" "~" (at 77.47 55.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 408416d5-956b-4910-8efc-e592a1c92184))
-    (pin "2" (uuid f03848bc-21ca-4426-a17f-caa897ccd185))
+    (pin "1" (uuid ecdd0acc-4b10-476a-91b9-9e9d4342b14b))
+    (pin "2" (uuid 64c59591-2e2f-4005-9b4c-0fcd2981b209))
     (instances
       (project "STLINK_Breakout"
         (path "/87df3795-a0c9-46c2-a391-09ea3c6d9908"
