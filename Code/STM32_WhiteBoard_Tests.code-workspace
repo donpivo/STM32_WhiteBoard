@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Test01_Blink",
+			"path": "Test01_Blink"
+		},
+		{
+			"name": "Test02_Serial",
+			"path": "Test02_Serial"
+		},
+		{
+			"name": "Test03_PWM",
+			"path": "Test03_PWM"
+		},
+		{
+			"name": "Test04_Watchdog",
+			"path": "Test04_Watchdog"
+		},
+		{
+			"name": "Test05_SPI_Flash",
+			"path": "Test05_SPI_Flash"
+		}
+	],
+	"settings": {}
+}
