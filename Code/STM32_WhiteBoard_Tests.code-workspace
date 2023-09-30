@@ -19,6 +19,10 @@
 		{
 			"name": "Test05_SPI_Flash",
 			"path": "Test05_SPI_Flash"
+		},
+		{
+			"name": "Test06_AnalogRead",
+			"path": "Test06_AnalogRead"
 		}
 	],
 	"settings": {}
