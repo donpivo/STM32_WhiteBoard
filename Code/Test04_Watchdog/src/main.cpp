@@ -1,30 +1,22 @@
-/*
-Test the board with and without Watchdog jumper connected, 
-and with and without the blinkPC13() function being called each loop, to see the difference.
-*/
-
 #include <Arduino.h>
+#include <IWatchdog.h>
 HardwareSerial uart2(PA3, PA2);
+uint32_t delayTime=100;
 
-void blinkPC13();
 
 void setup() 
 {
   uart2.begin(115200);
-  uart2.println("Starting");
-  pinMode(PC13, OUTPUT);
+  uart2.println("\nStarting\n");
+  IWatchdog.begin(1000000);
 }
 
 void loop() 
 {
   uart2.printf("Uptime: %i ms. \n", millis());
-  // blinkPC13();
-  delay(100);
+  uart2.printf("Delay time: %i ms. \n", delayTime);
+  delay(delayTime);
+  IWatchdog.reload();
+  delayTime+=100;
 }
 
-void blinkPC13()
-{
-  digitalWrite(PC13, HIGH);
-  delay(5);
-  digitalWrite(PC13, LOW);
-}
