@@ -27,6 +27,15 @@
 		{
 			"name": "Test07_SPI_Flash_Speed",
 			"path": "Test07_SPI_Flash_Speed"
+		},
+		{
+			"path": "Test08_SPI_Flash_FAT_Format"
+		},
+		{
+			"path": "Test09_SPI_Flash_FAT_Read_Write"
+		},
+		{
+			"path": "Test10_SPI_Flash_FAT_Full_Usage"
 		}
 	],
 	"settings": {}
