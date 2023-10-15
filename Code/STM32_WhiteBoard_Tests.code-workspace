@@ -17,12 +17,16 @@
 			"path": "Test04_Watchdog"
 		},
 		{
-			"name": "Test05_SPI_Flash",
-			"path": "Test05_SPI_Flash"
+			"name": "Test05_AnalogRead",
+			"path": "Test05_AnalogRead"
 		},
 		{
-			"name": "Test06_AnalogRead",
-			"path": "Test06_AnalogRead"
+			"name": "Test06_SPI_Flash_Info",
+			"path": "Test06_SPI_Flash_Info"
+		},
+		{
+			"name": "Test07_SPI_Flash_Speed",
+			"path": "Test07_SPI_Flash_Speed"
 		}
 	],
 	"settings": {}
