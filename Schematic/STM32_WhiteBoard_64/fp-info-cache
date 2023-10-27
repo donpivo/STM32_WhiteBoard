@@ -1,4 +1,4 @@
-23449375125558850
+23459568329840937
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83985,6 +83985,13 @@ Micro-USB SMD Typ-B Vertical
 0
 8
 6
+Retronics_Connectors
+USB_Micro_B_Female_10118194-0001LF
+http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf
+
+0
+9
+6
 Retronics_Discrete
 DMP3007SPS13
 PowerDI5060-8
@@ -84020,6 +84027,20 @@ Hardware
 0
 3
 3
+Retronics_IC
+MAX4734EUB+
+10 µMAX-1
+Integrated Circuit
+0
+10
+10
+Retronics_IC
+USBLC6-2SC6
+SOT23-6L_1
+Integrated Circuit
+0
+6
+6
 Retronics_IC_Power
 B0505S
 
@@ -84062,6 +84083,27 @@ Integrated Circuit
 0
 8
 8
+Retronics_Passives
+ASPI0615FS220MT2
+ASPI-0615FS-220M-T2
+Inductor
+0
+2
+2
+Retronics_Passives
+C_Bipolar_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Retronics_Passives
+C_Bipolar_Radial_D5.0mm_P2mm
+CP, Radial series, Radial, pin pitch=2mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
 Retronics_Passives
 L_Vishay_IHLP-6767
 Inductor, Vishay, IHLP series, 17.0mmx17.0mm

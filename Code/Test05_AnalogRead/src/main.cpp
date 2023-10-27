@@ -2,8 +2,10 @@
 #define analogPin PA0
 HardwareSerial uart2(PA3, PA2);
 
+
 void setup() 
 {
+  analogReadResolution(12);
   pinMode(analogPin, INPUT_ANALOG);
   uart2.begin(115200);
 }

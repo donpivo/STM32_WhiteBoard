@@ -1221,7 +1221,7 @@
     (property "Reference" "R1" (at 78.74 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7kΩ" (at 79.375 52.705 90)
+    (property "Value" "3kΩ" (at 79.375 52.705 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 77.47 55.245 0)
