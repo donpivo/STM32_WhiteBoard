@@ -38,8 +38,7 @@
 			"path": "Test10_SPI_Flash_FAT_Full_Usage"
 		},
 		{
-			"name": "Test11_USB",
-			"path": "Test11_USB"
+			"path": "Test11_USB_Keyboard"
 		}
 	],
 	"settings": {}
