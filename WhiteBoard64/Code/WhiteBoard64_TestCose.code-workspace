@@ -39,6 +39,10 @@
 		},
 		{
 			"path": "Test11_USB_Keyboard"
+		},
+		{
+			"name": "Test12_USB_Mouse",
+			"path": "Test12_USB_Mouse"
 		}
 	],
 	"settings": {}
