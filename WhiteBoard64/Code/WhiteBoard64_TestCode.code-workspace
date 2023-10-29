@@ -43,6 +43,10 @@
 		{
 			"name": "Test12_USB_Mouse",
 			"path": "Test12_USB_Mouse"
+		},
+		{
+			"name": "Test13_RotaryEncoder",
+			"path": "Test13_RotaryEncoder"
 		}
 	],
 	"settings": {}
