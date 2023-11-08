@@ -2,10 +2,10 @@
 #define PIN_ENCA PA0
 #define PIN_ENCB PA1
 
-volatile bool aFlag = 0;
-volatile bool bFlag = 0;
-volatile uint16_t encPos = 0;
-volatile uint16_t oldEncPos = 0;
+volatile bool aFlag = false;
+volatile bool bFlag = false;
+volatile int16_t encPos = 0;
+volatile int16_t oldEncPos = 0;
 volatile uint16_t reading = 0;
 HardwareSerial uart2(PA3, PA2);
 
@@ -37,7 +37,7 @@ void isrENCA()
 {
   noInterrupts();
   reading = GPIOA->IDR & 0x3;
-  if(reading == 0b0000000000000011 && aFlag && encPos) 
+  if(reading == 0b0000000000000011 && aFlag) 
   {
     encPos--;
     bFlag = 0;
