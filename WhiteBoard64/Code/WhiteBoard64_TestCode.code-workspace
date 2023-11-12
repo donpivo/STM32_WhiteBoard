@@ -47,6 +47,10 @@
 		{
 			"name": "Test13_RotaryEncoder",
 			"path": "Test13_RotaryEncoder"
+		},
+		{
+			"name": "Test14_RTC",
+			"path": "Test14_RTC"
 		}
 	],
 	"settings": {}
