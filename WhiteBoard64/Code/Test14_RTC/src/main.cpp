@@ -22,8 +22,8 @@ void setup()
 
   rtc.begin(); 
 
-  // rtc.setTime(hours, minutes, seconds);
-  // rtc.setDate(weekDay, day, month, year);
+  rtc.setTime(hours, minutes, seconds);
+  rtc.setDate(weekDay, day, month, year);
 }
 
 void loop()
