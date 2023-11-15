@@ -1,4 +1,0 @@
-On STLINK: 
-Populate R9=0Ω
-Replace D1 with 0Ω resistor.
-Remove SB12-16
