@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"name": "WB48_Test01_Blink",
+			"path": "WB48_Test01_Blink"
+		},
+		{
+			"name": "WB48_Test02_Serial",
+			"path": "WB48_Test02_Serial"
+		},
+		{
+			"name": "WB48_Test03_PWM",
+			"path": "WB48_Test03_PWM"
+		},
+		{
+			"name": "WB48_Test04_Watchdog",
+			"path": "WB48_Test04_Watchdog"
+		},
+		{
+			"name": "WB48_Test05_AnalogRead",
+			"path": "WB48_Test05_AnalogRead"
+		},
+		{
+			"name": "WB48_Test06_USB_Keyboard",
+			"path": "WB48_Test06_USB_Keyboard"
+		},
+		{
+			"name": "WB48_Test07_USB_Mouse",
+			"path": "WB48_Test07_USB_Mouse"
+		},
+		{
+			"name": "WB48_Test08_RotaryEncoder",
+			"path": "WB48_Test08_RotaryEncoder"
+		},
+		{
+			"name": "WB48_Test09_RTC",
+			"path": "WB48_Test09_RTC"
+		},
+		{
+			"name": "WB48_Test10_SPI_Flash_Info",
+			"path": "WB48_Test10_SPI_Flash_Info"
+		},
+		{
+			"name": "WB48_Test11_SPI_Flash_Speed",
+			"path": "WB48_Test11_SPI_Flash_Speed"
+		},
+		{
+			"name": "WB48_Test12_SPI_Flash_FAT_Format",
+			"path": "WB48_Test12_SPI_Flash_FAT_Format"
+		},
+		{
+			"name": "WB48_Test13_SPI_Flash_Read_Write",
+			"path": "WB48_Test13_SPI_Flash_Read_Write"
+		},
+		{
+			"name": "WB48_Test14_SPI_Flash_FAT_Full_Usage",
+			"path": "WB48_Test14_SPI_Flash_FAT_Full_Usage"
+		}
+	],
+	"settings": {}
+}
